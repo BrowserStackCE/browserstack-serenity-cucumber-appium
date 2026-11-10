@@ -4,7 +4,7 @@
 
 Master branch contains **Selenium 3** samples, for **Selenium 4 - W3C protocol** please checkout [selenium-4](https://github.com/browserstack/serenity-browserstack/tree/selenium-4) branch
 
-![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
+![BrowserStack Logo](https://www.browserstack.com/images/static/header-logo.jpg)
 
 <img src="http://www.thucydides.info/docs/serenity/images/serenity-logo.png" height = "100">
 
